@@ -3,10 +3,6 @@
 This is a dynamic app that can use any neo4j dataset and provide generic CRUD operations for it. It is based on FastAPI and Neo4j.
 Only nodes and relations of existing types can be created, but new properties can be added, so the schema is intentionally not fixed.
 
-# Author
-
-Markus Vogl, k1155575
-
 # Setup
 
 Start neo4j via 
